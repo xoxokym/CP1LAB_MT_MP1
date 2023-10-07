@@ -1,0 +1,21 @@
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project_5\Project_5\bin\Debug\Project_5.exe.config
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project_5\Project_5\bin\Debug\Project_5.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project_5\Project_5\bin\Debug\Project_5.pdb
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project_5\Project_5\obj\Debug\Project_5.csprojAssemblyReference.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project_5\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project_5\Project_5\obj\Debug\Project_5.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project_5\Project_5\obj\Debug\Project_5.pdb
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP1\Project_5\Project_5\obj\Debug\Project_5.csprojAssemblyReference.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP1\Project_5\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP1\Project_5\Project_5\obj\Debug\Project_5.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP1\Project_5\Project_5\obj\Debug\Project_5.pdb
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP1\Project_5\Project_5\bin\Debug\Project_5.exe.config
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP1\Project_5\Project_5\bin\Debug\Project_5.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP1\Project_5\Project_5\bin\Debug\Project_5.pdb
+D:\Users\User\Desktop\kempoy\CP1LAB\Monteagudo_Kim_MidMP1\Project_5\Project_5\bin\Debug\Project_5.exe.config
+D:\Users\User\Desktop\kempoy\CP1LAB\Monteagudo_Kim_MidMP1\Project_5\Project_5\bin\Debug\Project_5.exe
+D:\Users\User\Desktop\kempoy\CP1LAB\Monteagudo_Kim_MidMP1\Project_5\Project_5\bin\Debug\Project_5.pdb
+D:\Users\User\Desktop\kempoy\CP1LAB\Monteagudo_Kim_MidMP1\Project_5\Project_5\obj\Debug\Project_5.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\kempoy\CP1LAB\Monteagudo_Kim_MidMP1\Project_5\Project_5\obj\Debug\Project_5.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\kempoy\CP1LAB\Monteagudo_Kim_MidMP1\Project_5\Project_5\obj\Debug\Project_5.exe
+D:\Users\User\Desktop\kempoy\CP1LAB\Monteagudo_Kim_MidMP1\Project_5\Project_5\obj\Debug\Project_5.pdb
